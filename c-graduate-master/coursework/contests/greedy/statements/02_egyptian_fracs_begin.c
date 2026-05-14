@@ -2,7 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct denom_array_t {
+struct denom_array_t
+{
     unsigned *arr;
     unsigned sz;
 };
