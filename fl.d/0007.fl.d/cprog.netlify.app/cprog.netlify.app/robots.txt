@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cprog.netlify.app/sitemap.xml
-Host: https://cprog.netlify.app
